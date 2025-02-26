@@ -14,6 +14,9 @@
     <p>
       Record spintime is currently in an Alpha release and may have unexpected behaviors or bugs. If
       you find any, please
+      <a href="https://github.com/TerabyteTiger/record-spintime/issues"
+        >report an issue on GitHub</a
+      >
     </p>
     <!-- <h2>Data collection</h2>
     <p>
